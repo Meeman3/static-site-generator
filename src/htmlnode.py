@@ -13,6 +13,9 @@ class HTMLNode():
 
         prop_html = ""
 
+        if self.props is None:
+            return prop_html
+
         for attribute in self.props.keys():
             prop_html += " " + attribute + f'="{self.props[attribute]}"'
 
