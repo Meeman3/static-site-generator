@@ -11,6 +11,11 @@ def main():
         basepath = sys.argv[1]
     else:
         basepath = "/"
+    
+    if not basepath.startswith("/"):
+        basepath = "/" + basepath
+    if not basepath.endswith("/"):
+        basepath += "/"
 
     if os.path.exists("./docs/"):
         shutil.rmtree("./docs/")
