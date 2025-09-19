@@ -1,15 +1,19 @@
 
 import os
 import shutil
+from src.page_generator import generate_pages_recursive
 
 
 def main():
 
+    if os.path.exists("./public/"):
+        shutil.rmtree("./public/")
+
     dir_copy("./static/", "./public/")
 
+    generate_pages_recursive("./content/", "./template.html", "./public/")
+
 def dir_copy(src_dir, dst_dir):
-    if os.path.exists(dst_dir):
-        shutil.rmtree(dst_dir)
     os.mkdir(dst_dir)
 
     

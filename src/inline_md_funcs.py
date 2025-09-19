@@ -3,13 +3,13 @@ from src.textnode import TextNode, TextType
 
 def extract_markdown_images(text):
 
-    imgs = re.findall(r"!\[(.*?)\]\((.*?\/\/.*?\..*?)\)", text)
+    imgs = re.findall(r"!\[(.*?)\]\((.*?)\)", text)
 
     return imgs
 
 def extract_markdown_links(links):
 
-    alt_text_urls = re.findall(r"\[(.*?)\]\((.*?\/\/.*?\..*?)\)", links)
+    alt_text_urls = re.findall(r"\[(.*?)\]\((.*?)\)", links)
 
     return alt_text_urls
 
