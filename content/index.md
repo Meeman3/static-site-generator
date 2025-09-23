@@ -1,17 +1,20 @@
-# Tolkien Fan Club
+# Risk of Rain Fan Club
 
-![JRR Tolkien sitting](/images/tolkien.png)
+![Commando with ukelele](/images/commando.png)
 
-Here's the deal, **I like Tolkien**.
+Here's the deal, **I like Risk of Rain**.
 
-> "I am in fact a Hobbit in all but size."
+> "And to my creators, should you intercept this message, know the following; 
+> >Know that I am alive. 
+> >Know that I am free. 
+> >Know that I am coming for you."
 >
-> -- J.R.R. Tolkien
+> -- Aurelionite
 
 ## Blog posts
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
+- [Why Risk of rain 2 and Returns are perfection](/blog/glorfindel)
+- [Why Scorch Worms are an abomination](/blog/tom)
 - [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
 
 ## Reasons I like Tolkien

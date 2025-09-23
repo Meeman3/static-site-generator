@@ -2,8 +2,6 @@
 
 [< Back Home](/)
 
-Give me a call anytime to chat about Tolkien!
+Give me a message anytime to chat about Risk of Rain!
 
-`555-555-5555`
-
-**"Váya márië."**
+`[meeman on discord](https://discord.com/users/526830412035522571)`
