@@ -13,9 +13,9 @@ Here's the deal, **I like Risk of Rain**.
 
 ## Blog posts
 
-- [Why Risk of rain 2 and Returns are perfection](/blog/glorfindel)
-- [Why Scorch Worms are an abomination](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+- [Why Risk of rain 2 and Returns are Perfection](/blog/perfection)
+- [Why Scorch Worms are an Abomination](/blog/wurm)
+- [The Amazing Lore of Risk of Rain](/blog/lore)
 
 ## Reasons I like Tolkien
 
@@ -26,7 +26,7 @@ Here's the deal, **I like Risk of Rain**.
 
 ## My favorite characters (in order)
 
-1. Gandalf
+1. 
 2. Bilbo
 3. Sam
 4. Glorfindel
